@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Jonatan David Sarmiento 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+software+💻;aprendiz+de+sofware+IA+📘;Amante+de+las+cosas+nuevas;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+software+💻;Aprendiz+de+Sofware+IA+📘;Amante+de+las+cosas+nuevas;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">💡 <em>“Desarrollador de software junior ✨ | Codeando y aprendiendo en el camino.”</em></p>
@@ -40,16 +40,16 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/cristian7712">
+  <a href="https://github.com/Jonatan-17">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristian7712&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/cristian7712">
+  <a href="https://github.com/Jonatan-17">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristian7712&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cristian7712&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jonatan-17&theme=dark&hide_border=true"/>
 </p>
 
 ---
@@ -57,20 +57,13 @@
 ### 📈 Actividad Reciente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cristian7712&theme=tokyo-night&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonatan-17&theme=tokyo-night&area=true" alt="activity graph" />
 </p>
 
 ---
 
 ### 📫 Contacto
 
-- ✉️ cristian.diaz8918@gmail.com  
-- 🌐 [Portafolio personal](https://portafolio-personal-cristian-diaz.vercel.app/)
-
----
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+- ✉️ jonatandavidsarmientosierra@gmail.com
 
 <p align="center">Gracias por pasarte por aquí 😊 ¡Te deseo buen código y cafés cargados! ☕</p>
