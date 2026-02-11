@@ -66,4 +66,4 @@
 
 - ✉️ jonatandavidsarmientosierra@gmail.com
 
-<p align="center">Gracias por pasarte por aquí 😊 ¡Te deseo buen código y cafés cargados! ☕</p>
+<p align="center">Gracias por leer. Te deseo grandes logros y mucho aprendizaje en cada línea de código 💻🌟</p>
