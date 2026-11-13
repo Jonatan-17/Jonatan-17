@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://portafolio-jonatan.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-portafolio-dark.svg"><img src="./assets/buttons/btn-portafolio-light.svg" width="49%" alt="Ver mi portafolio"></picture></a>
   <a href="https://www.linkedin.com/in/jonatan-sarmiento-16a206366/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-linkedin-dark.svg"><img src="./assets/buttons/btn-linkedin-light.svg" width="49%" alt="Conectar en LinkedIn"></picture></a>
-  <a href="mailto:jonatandavidsarmientosierra@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-correo-dark.svg"><img src="./assets/buttons/btn-correo-light.svg" width="49%" alt="Escribirme a jonatandavidsarmientosierra@gmail.com"></picture></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jonatandavidsarmientosierra@gmail.com&amp;su=Contacto%20desde%20GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-correo-dark.svg"><img src="./assets/buttons/btn-correo-light.svg" width="49%" alt="Escribirme a jonatandavidsarmientosierra@gmail.com"></picture></a>
   <a href="https://github.com/Jonatan-17?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-repositorios-dark.svg"><img src="./assets/buttons/btn-repositorios-light.svg" width="49%" alt="Ver todos mis repositorios"></picture></a>
   <!-- Hoja de vida y carta de presentación: se activan cuando estén listos los PDF en docs/
   <a href="./docs/Hoja-de-vida-Jonatan-Sarmiento.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-hoja-de-vida-dark.svg"><img src="./assets/buttons/btn-hoja-de-vida-light.svg" width="49%" alt="Descargar mi hoja de vida en PDF"></picture></a>
@@ -71,8 +71,8 @@ Aprendo rápido, trabajo en equipo con Git y ramas por integrante, y busco mi pr
 
 <a href="https://github.com/Jonatan-17?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/github-dark.svg">
-    <img src="./assets/stats/github-light.svg" width="100%" alt="Panel de GitHub: contribuciones del último año, días activos, racha más larga, repositorios públicos, mapa de actividad y lenguajes por volumen de código.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jonatan-17/Jonatan-17/raw/stats/github-dark.svg">
+    <img src="https://github.com/Jonatan-17/Jonatan-17/raw/stats/github-light.svg" width="100%" alt="Panel de GitHub: contribuciones del último año, días activos, racha más larga, repositorios públicos, mapa de actividad y lenguajes por volumen de código.">
   </picture>
 </a>
 
@@ -80,7 +80,7 @@ Aprendo rápido, trabajo en equipo con Git y ramas por integrante, y busco mi pr
 
 ## Contacto
 
-<a href="mailto:jonatandavidsarmientosierra@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jonatandavidsarmientosierra@gmail.com&amp;su=Contacto%20desde%20GitHub">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg">
     <img src="./assets/contact-light.svg" width="100%" alt="¿Tienes una vacante o un proyecto? Hablemos. jonatandavidsarmientosierra@gmail.com">
@@ -88,9 +88,9 @@ Aprendo rápido, trabajo en equipo con Git y ramas por integrante, y busco mi pr
 </a>
 
 <p align="center">
-  <a href="mailto:jonatandavidsarmientosierra@gmail.com"><strong>jonatandavidsarmientosierra@gmail.com</strong></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jonatan-sarmiento-16a206366/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://portafolio-jonatan.vercel.app/">Portafolio</a>
+  <strong>jonatandavidsarmientosierra@gmail.com</strong><br>
+  Escríbeme desde <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jonatandavidsarmientosierra@gmail.com&amp;su=Contacto%20desde%20GitHub">Gmail</a> &nbsp;·&nbsp; <a href="https://outlook.office.com/mail/deeplink/compose?to=jonatandavidsarmientosierra@gmail.com&amp;subject=Contacto%20desde%20GitHub">Outlook</a> &nbsp;·&nbsp; <a href="mailto:jonatandavidsarmientosierra@gmail.com">tu app de correo</a><br>
+  <a href="https://www.linkedin.com/in/jonatan-sarmiento-16a206366/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://portafolio-jonatan.vercel.app/">Portafolio</a>
 </p>
 
 <p align="center"><sub>Piedecuesta, Santander · Colombia — Backend con Java, automatización con IA.</sub></p>

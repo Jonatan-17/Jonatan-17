@@ -30,12 +30,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_stats.py
-      - name: Guardar cambios
+      # El panel se guarda en la rama "stats" para que el historial de main
+      # (y la lista de contribuidores del repo) quede solo con commits del autor.
+      - name: Publicar en la rama stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats/*.svg
+          if git ls-remote --exit-code --heads origin stats; then
+            git fetch origin stats
+            git worktree add /tmp/stats origin/stats
+            cd /tmp/stats && git switch -c stats
+          else
+            git worktree add --detach /tmp/stats
+            cd /tmp/stats && git switch --orphan stats
+          fi
+          cp "$GITHUB_WORKSPACE"/assets/stats/github-*.svg .
+          git add github-*.svg
           if ! git diff --cached --quiet; then
-            git commit -m "chore: actualizar panel de estadísticas"
-            git push
+            git commit -m "Actualizar panel de estadísticas"
+            git push origin stats
           fi

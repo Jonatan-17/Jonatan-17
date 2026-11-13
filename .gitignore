@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+# El panel se publica en la rama "stats" (lo genera GitHub Actions)
+assets/stats/
