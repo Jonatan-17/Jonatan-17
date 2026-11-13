@@ -71,12 +71,7 @@ Desarrollador de software junior formado en **Campuslands**, enfocado en backend
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jonatan-17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jonatan-17&layout=compact&langs_count=8&theme=algolia" alt="Lenguajes más usados" />
-</p>
+### 📊 Actividad
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jonatan-17&theme=algolia&hide_border=true" alt="Racha de contribuciones" />
