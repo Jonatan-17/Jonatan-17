@@ -10,10 +10,8 @@
   <a href="https://www.linkedin.com/in/jonatan-sarmiento-16a206366/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-linkedin-dark.svg"><img src="./assets/buttons/btn-linkedin-light.svg" width="49%" alt="Conectar en LinkedIn"></picture></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jonatandavidsarmientosierra@gmail.com&amp;su=Contacto%20desde%20GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-correo-dark.svg"><img src="./assets/buttons/btn-correo-light.svg" width="49%" alt="Escribirme a jonatandavidsarmientosierra@gmail.com"></picture></a>
   <a href="https://github.com/Jonatan-17?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-repositorios-dark.svg"><img src="./assets/buttons/btn-repositorios-light.svg" width="49%" alt="Ver todos mis repositorios"></picture></a>
-  <!-- Hoja de vida y carta de presentación: se activan cuando estén listos los PDF en docs/
   <a href="./docs/Hoja-de-vida-Jonatan-Sarmiento.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-hoja-de-vida-dark.svg"><img src="./assets/buttons/btn-hoja-de-vida-light.svg" width="49%" alt="Descargar mi hoja de vida en PDF"></picture></a>
   <a href="./docs/Carta-de-presentacion-Jonatan-Sarmiento.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/buttons/btn-carta-dark.svg"><img src="./assets/buttons/btn-carta-light.svg" width="49%" alt="Leer mi carta de presentación en PDF"></picture></a>
-  -->
 </p>
 
 ## Sobre mí
