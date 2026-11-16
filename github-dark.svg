@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" fill="none" role="img" aria-labelledby="t d">
 <title id="t">GitHub en números</title>
-<desc id="d">266 contribuciones en el último año, 39 días activos, racha más larga de 4 días, 15 repositorios públicos. Actualizado el 15/11/2026.</desc>
+<desc id="d">266 contribuciones en el último año, 39 días activos, racha más larga de 4 días, 15 repositorios públicos. Actualizado el 16/11/2026.</desc>
 <style>text{font-family:Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}.m{font-family:SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace}</style>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#0F1629"/></linearGradient></defs>
 <rect x=".5" y=".5" width="1199" height="559" rx="20" fill="url(#bg)" stroke="#24314D"/>
 <text class="m" x="44" y="54" font-size="14" fill="#5B6B86" letter-spacing="2">GITHUB EN NÚMEROS</text>
-<text class="m" x="1156" y="54" font-size="13" fill="#5B6B86" text-anchor="end">Actualizado 15/11/2026 · se renueva a diario</text>
+<text class="m" x="1156" y="54" font-size="13" fill="#5B6B86" text-anchor="end">Actualizado 16/11/2026 · se renueva a diario</text>
 <rect x="44.0" y="74" width="266.0" height="112" rx="14" fill="#121A2E" stroke="#24314D"/>
 <text x="66.0" y="126" font-size="38" font-weight="700" fill="#FB923C">266</text>
 <text x="66.0" y="152" font-size="15" font-weight="600" fill="#F1F5F9">Contribuciones</text>
@@ -17,7 +17,7 @@
 <rect x="608.0" y="74" width="266.0" height="112" rx="14" fill="#121A2E" stroke="#24314D"/>
 <text x="630.0" y="126" font-size="38" font-weight="700" fill="#4ADE80">4</text>
 <text x="630.0" y="152" font-size="15" font-weight="600" fill="#F1F5F9">Racha más larga</text>
-<text x="630.0" y="173" font-size="13" fill="#94A3B8">días seguidos · actual: 4</text>
+<text x="630.0" y="173" font-size="13" fill="#94A3B8">días seguidos · actual: 0</text>
 <rect x="890.0" y="74" width="266.0" height="112" rx="14" fill="#121A2E" stroke="#24314D"/>
 <text x="912.0" y="126" font-size="38" font-weight="700" fill="#F472B6">15</text>
 <text x="912.0" y="152" font-size="15" font-weight="600" fill="#F1F5F9">Repos públicos</text>
@@ -359,7 +359,7 @@
 <text class="m" x="992" y="238" font-size="12" fill="#5B6B86">OCT</text>
 <rect x="992" y="268" width="16" height="16" rx="4" fill="#1A2440"/>
 <rect x="992" y="288" width="16" height="16" rx="4" fill="#1A2440"/>
-<rect x="992" y="308" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="1"/>
+<rect x="992" y="308" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="0.82"/>
 <rect x="992" y="328" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="1"/>
 <rect x="992" y="348" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="0.82"/>
 <rect x="992" y="368" width="16" height="16" rx="4" fill="#1A2440"/>
@@ -400,6 +400,7 @@
 <rect x="1092" y="348" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="1"/>
 <rect x="1092" y="368" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="0.35"/>
 <rect x="1112" y="248" width="16" height="16" rx="4" fill="#1A2440"/>
+<rect x="1112" y="268" width="16" height="16" rx="4" fill="#1A2440"/>
 <text class="m" x="50" y="280" font-size="12" fill="#5B6B86">L</text>
 <text class="m" x="50" y="320" font-size="12" fill="#5B6B86">X</text>
 <text class="m" x="50" y="360" font-size="12" fill="#5B6B86">V</text>
