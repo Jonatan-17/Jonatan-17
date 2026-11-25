@@ -1,25 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" fill="none" role="img" aria-labelledby="t d">
 <title id="t">GitHub en números</title>
-<desc id="d">459 contribuciones en el último año, 42 días activos, racha más larga de 4 días, 17 repositorios públicos. Actualizado el 24/11/2026.</desc>
+<desc id="d">469 contribuciones en el último año, 44 días activos, racha más larga de 4 días, 18 repositorios públicos. Actualizado el 25/11/2026.</desc>
 <style>text{font-family:Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}.m{font-family:SFMono-Regular, Consolas, Menlo, 'Liberation Mono', monospace}</style>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FB"/></linearGradient></defs>
 <rect x=".5" y=".5" width="1199" height="559" rx="20" fill="url(#bg)" stroke="#D8E0EA"/>
 <text class="m" x="44" y="54" font-size="14" fill="#94A3B8" letter-spacing="2">GITHUB EN NÚMEROS</text>
-<text class="m" x="1156" y="54" font-size="13" fill="#94A3B8" text-anchor="end">Actualizado 24/11/2026 · se renueva a diario</text>
+<text class="m" x="1156" y="54" font-size="13" fill="#94A3B8" text-anchor="end">Actualizado 25/11/2026 · se renueva a diario</text>
 <rect x="44.0" y="74" width="266.0" height="112" rx="14" fill="#FFFFFF" stroke="#D8E0EA"/>
-<text x="66.0" y="126" font-size="38" font-weight="700" fill="#EA580C">459</text>
+<text x="66.0" y="126" font-size="38" font-weight="700" fill="#EA580C">469</text>
 <text x="66.0" y="152" font-size="15" font-weight="600" fill="#0F172A">Contribuciones</text>
 <text x="66.0" y="173" font-size="13" fill="#475569">en el último año</text>
 <rect x="326.0" y="74" width="266.0" height="112" rx="14" fill="#FFFFFF" stroke="#D8E0EA"/>
-<text x="348.0" y="126" font-size="38" font-weight="700" fill="#2563EB">42</text>
+<text x="348.0" y="126" font-size="38" font-weight="700" fill="#2563EB">44</text>
 <text x="348.0" y="152" font-size="15" font-weight="600" fill="#0F172A">Días activos</text>
 <text x="348.0" y="173" font-size="13" fill="#475569">con al menos una contribución</text>
 <rect x="608.0" y="74" width="266.0" height="112" rx="14" fill="#FFFFFF" stroke="#D8E0EA"/>
 <text x="630.0" y="126" font-size="38" font-weight="700" fill="#16A34A">4</text>
 <text x="630.0" y="152" font-size="15" font-weight="600" fill="#0F172A">Racha más larga</text>
-<text x="630.0" y="173" font-size="13" fill="#475569">días seguidos · actual: 0</text>
+<text x="630.0" y="173" font-size="13" fill="#475569">días seguidos · actual: 2</text>
 <rect x="890.0" y="74" width="266.0" height="112" rx="14" fill="#FFFFFF" stroke="#D8E0EA"/>
-<text x="912.0" y="126" font-size="38" font-weight="700" fill="#DB2777">17</text>
+<text x="912.0" y="126" font-size="38" font-weight="700" fill="#DB2777">18</text>
 <text x="912.0" y="152" font-size="15" font-weight="600" fill="#0F172A">Repos públicos</text>
 <text x="912.0" y="173" font-size="13" fill="#475569">proyectos para revisar</text>
 <text x="44" y="222" font-size="17" font-weight="700" fill="#0F172A">Actividad del último año</text>
@@ -401,7 +401,8 @@
 <rect x="1092" y="368" width="16" height="16" rx="4" fill="#EEF2F7"/>
 <rect x="1112" y="248" width="16" height="16" rx="4" fill="#EEF2F7"/>
 <rect x="1112" y="268" width="16" height="16" rx="4" fill="#EEF2F7"/>
-<rect x="1112" y="288" width="16" height="16" rx="4" fill="#EEF2F7"/>
+<rect x="1112" y="288" width="16" height="16" rx="4" fill="#EA580C" fill-opacity="0.6"/>
+<rect x="1112" y="308" width="16" height="16" rx="4" fill="#EA580C" fill-opacity="0.35"/>
 <text class="m" x="50" y="280" font-size="12" fill="#94A3B8">L</text>
 <text class="m" x="50" y="320" font-size="12" fill="#94A3B8">X</text>
 <text class="m" x="50" y="360" font-size="12" fill="#94A3B8">V</text>
@@ -415,20 +416,20 @@
 <text x="44" y="454" font-size="17" font-weight="700" fill="#0F172A">Lenguajes en mis repositorios</text>
 <text x="1156" y="454" font-size="13" fill="#475569" text-anchor="end">por volumen de código · repos propios públicos</text>
 <clipPath id="bar"><rect x="44" y="472" width="1112" height="14" rx="7"/></clipPath><g clip-path="url(#bar)">
-<rect x="44.0" y="472" width="536.4" height="14" fill="#EA580C"/>
-<rect x="580.4" y="472" width="285.2" height="14" fill="#2563EB"/>
-<rect x="865.7" y="472" width="118.1" height="14" fill="#16A34A"/>
-<rect x="983.8" y="472" width="109.8" height="14" fill="#DB2777"/>
-<rect x="1093.5" y="472" width="62.5" height="14" fill="#94A3B8"/>
+<rect x="44.0" y="472" width="512.4" height="14" fill="#EA580C"/>
+<rect x="556.4" y="472" width="298.0" height="14" fill="#2563EB"/>
+<rect x="854.4" y="472" width="122.9" height="14" fill="#16A34A"/>
+<rect x="977.3" y="472" width="119.0" height="14" fill="#DB2777"/>
+<rect x="1096.3" y="472" width="59.7" height="14" fill="#94A3B8"/>
 </g>
 <circle cx="50" cy="516" r="6" fill="#EA580C"/>
-<text x="64" y="521" font-size="15" font-weight="600" fill="#0F172A">Java <tspan font-weight="400" fill="#475569">48.2%</tspan></text>
+<text x="64" y="521" font-size="15" font-weight="600" fill="#0F172A">Java <tspan font-weight="400" fill="#475569">46.1%</tspan></text>
 <circle cx="270" cy="516" r="6" fill="#2563EB"/>
-<text x="284" y="521" font-size="15" font-weight="600" fill="#0F172A">JavaScript <tspan font-weight="400" fill="#475569">25.7%</tspan></text>
+<text x="284" y="521" font-size="15" font-weight="600" fill="#0F172A">JavaScript <tspan font-weight="400" fill="#475569">26.8%</tspan></text>
 <circle cx="490" cy="516" r="6" fill="#16A34A"/>
-<text x="504" y="521" font-size="15" font-weight="600" fill="#0F172A">HTML <tspan font-weight="400" fill="#475569">10.6%</tspan></text>
+<text x="504" y="521" font-size="15" font-weight="600" fill="#0F172A">HTML <tspan font-weight="400" fill="#475569">11.1%</tspan></text>
 <circle cx="710" cy="516" r="6" fill="#DB2777"/>
-<text x="724" y="521" font-size="15" font-weight="600" fill="#0F172A">CSS <tspan font-weight="400" fill="#475569">9.9%</tspan></text>
+<text x="724" y="521" font-size="15" font-weight="600" fill="#0F172A">CSS <tspan font-weight="400" fill="#475569">10.7%</tspan></text>
 <circle cx="930" cy="516" r="6" fill="#94A3B8"/>
-<text x="944" y="521" font-size="15" font-weight="600" fill="#0F172A">Otros <tspan font-weight="400" fill="#475569">5.6%</tspan></text>
+<text x="944" y="521" font-size="15" font-weight="600" fill="#0F172A">Otros <tspan font-weight="400" fill="#475569">5.4%</tspan></text>
 </svg>
